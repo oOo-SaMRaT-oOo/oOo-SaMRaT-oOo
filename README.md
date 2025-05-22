@@ -2,7 +2,7 @@
 - 👀 I’m interested in simulation 
 - 🌱 I’m currently learning electrical engineering
 - 💞️ I’m looking to collaborate on simulation projects
-- 📫 How to reach me ... contact 
+- 📫 How to reach me ... contact in fb 
 - ⚡ Fun fact: ... I love music
 
 <!---
