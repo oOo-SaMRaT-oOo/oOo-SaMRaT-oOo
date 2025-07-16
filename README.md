@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **SaMRaT**  
 
-🎓 *Electrical Engineering student* | 🖥️ *Simulation enthusiast* | 🎶 *Music lover { GUITAR + VOCAL = MY LIFE }*  
+🎓 *Electrical Engineering student* | 🖥️ *Simulation enthusiast* | 🎶 *Music lover (🎸 Guitar + 🎤 Vocals = my life)*
 
 ---
 
