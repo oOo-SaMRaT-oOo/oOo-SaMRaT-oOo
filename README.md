@@ -1,44 +1,68 @@
-# 👋 Hi there, I’m **SaMRaT**  
+# 👋 Hi there, I’m **SaMRaT**
 
-🎓 *Electrical Engineering student* | 🖥️ *Simulation enthusiast* | 🎶 *Music lover (🎸 Guitar + 🎤 Vocals = my life)*
-
----
-
-## 🌱 About me
-- Currently pursuing **Electrical Engineering**  
-- Deeply interested in **simulation**, **signal processing**, and **numerical methods**
-- Learning to blend **Python** and engineering to create visual tools and educational apps  
-- Fun fact: I code better when there's music playing in the background! 🎧
+🎓 Electrical Engineering Student | 🧠 Simulation & Systems Enthusiast | 🎸 Music-driven Creator  
 
 ---
 
-## ⚡ What I’m up to
-- Working on **simulation projects** using Python, NumPy, and Matplotlib  
-- Exploring topics like:
-  - Fourier series and transforms
-  - AC circuit analysis
-  - Visualizing waveforms in time & frequency domains  
-- Building small tools to help students (like me!) understand engineering concepts interactively
+## 🌱 About Me
+
+I’m an Electrical Engineering student focused on understanding how physical systems translate into computational models.
+
+My main interests lie in:
+- Signal processing & system simulation  
+- Numerical methods & applied mathematics  
+- Turning equations into visual, interactive tools using Python  
+
+I enjoy building things that make engineering concepts easier to *see and understand*, not just memorize.
 
 ---
 
-## 🤝 Looking to collaborate
-- Open to team up on:
-  - Python simulation or visualization tools
-  - Educational engineering projects
-  - Anything that mixes **code, math, and creativity**  
+## ⚡ What I’m Working On
+
+Right now, I’m building and exploring:
+
+- 🔬 Simulation projects using **Python, NumPy, Matplotlib, SciPy**
+- 📊 Visual tools for topics like:
+  - Fourier series & transforms  
+  - AC circuit analysis  
+  - Time & frequency-domain waveform visualization  
+- ⏱️ A full **digital systems pipeline project (Simulink → Python → Streamlit UI)**  
+- 🧩 Small engineering tools that help students learn concepts interactively  
 
 ---
 
-## 📫 Connect with me
-- Facebook: `fb` (feel free to drop a message!)
-- Always happy to meet fellow learners and creators
+## 🧠 Current Focus
+
+- Bridging **theory ↔ simulation ↔ visualization**
+- Understanding systems from both:
+  - Mathematical perspective
+  - Practical implementation perspective  
 
 ---
 
-> 🌟 *"Simulation turns equations into something you can see, hear, and feel!"*
+## 🎧 Outside Engineering
 
-<!---
-oOo-SaMRaT-oOo/oOo-SaMRaT-oOo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎸 Guitar + 🎤 Vocals (music keeps the brain running)
+- Coding feels better with background music
+- I treat projects like a mix of engineering + creativity + rhythm
+
+---
+
+## 🤝 Collaboration
+
+Open to working on:
+- Simulation / visualization tools  
+- Engineering education projects  
+- Signal processing / system modeling ideas  
+- Anything that mixes **math + code + creativity**
+
+---
+
+## 📫 Connect With Me
+
+- Facebook: fb  
+- Always open to discussions, ideas, and collaborations  
+
+---
+
+> 🌟 *“If you can simulate it, you can understand it.”*
