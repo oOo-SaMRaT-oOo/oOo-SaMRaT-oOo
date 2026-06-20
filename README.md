@@ -60,7 +60,7 @@ Open to working on:
 
 ## 📫 Connect With Me
 
-- 🌐 Website: https://itsme-samratmalla.streamlit.app/
+- 🌐 Website: [https://itsme-samratmalla.streamlit.app/](https://itsmesamratmalla.framer.website/)
 - 📘 Facebook: fb  
 - Always open to discussions, ideas, and collaborations  
 
