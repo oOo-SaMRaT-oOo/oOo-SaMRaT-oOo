@@ -60,7 +60,7 @@ Open to working on:
 
 ## 📫 Connect With Me
 
-- 🌐 Website: (https://heysammy.framer.wiki/)
+- 🌐 Website: https://heysammy.framer.wiki/
 - 📘 Facebook: fb  
 - Always open to discussions, ideas, and collaborations  
 
