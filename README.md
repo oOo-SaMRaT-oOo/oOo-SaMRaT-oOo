@@ -1,69 +1,30 @@
-# 👋 Hi there, I’m **SaMRaT**
+# Hi, I'm SaMRaT 👋
 
-🎓 Electrical Engineering Student | 🧠 Simulation & Systems Enthusiast | 🎸 Music-driven Creator  
+Electrical Engineering Student passionate about simulation, signal processing, and building interactive engineering tools with Python.
 
----
+## About Me
 
-## 🌱 About Me
+I enjoy turning mathematical models into visual, practical applications that make engineering concepts easier to understand.
 
-I’m an Electrical Engineering student focused on understanding how physical systems translate into computational models.
+**Currently exploring:**
+- Power systems & signal processing
+- Scientific computing with Python
+- System simulation & visualization
+- Engineering education tools
 
-My main interests lie in:
-- Signal processing & system simulation  
-- Numerical methods & applied mathematics  
-- Turning equations into visual, interactive tools using Python  
+## Tech Stack
 
-I enjoy building things that make engineering concepts easier to *see and understand*, not just memorize.
+`Python` `NumPy` `SciPy` `Matplotlib` `Streamlit` `Simulink`
 
----
+## Current Projects
 
-## ⚡ What I’m Working On
+- Engineering simulation tools
+- Interactive visualization applications
+- Digital systems & signal processing projects
 
-Right now, I’m building and exploring:
+## Connect
 
-- 🔬 Simulation projects using **Python, NumPy, Matplotlib, SciPy**
-- 📊 Visual tools for topics like:
-  - Fourier series & transforms  
-  - AC circuit analysis  
-  - Time & frequency-domain waveform visualization  
-- ⏱️ A full **digital systems pipeline project (Simulink → Python → Streamlit UI)**  
-- 🧩 Small engineering tools that help students learn concepts interactively  
+- 🌐 Website: https://heysammy.framer.wiki
+- 📘 Facebook: fb
 
----
-
-## 🧠 Current Focus
-
-- Bridging **theory ↔ simulation ↔ visualization**
-- Understanding systems from both:
-  - Mathematical perspective
-  - Practical implementation perspective  
-
----
-
-## 🎧 Outside Engineering
-
-- 🎸 Guitar + 🎤 Vocals (music keeps the brain running)
-- Coding feels better with background music
-- I treat projects like a mix of engineering + creativity + rhythm
-
----
-
-## 🤝 Collaboration
-
-Open to working on:
-- Simulation / visualization tools  
-- Engineering education projects  
-- Signal processing / system modeling ideas  
-- Anything that mixes **math + code + creativity**
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Website: https://heysammy.framer.wiki/
-- 📘 Facebook: fb  
-- Always open to discussions, ideas, and collaborations  
-
----
-
-> 🌟 *“If you can simulate it, you can understand it.”*
+> *"If you can simulate it, you can understand it."*
